@@ -42,7 +42,7 @@ UI/UX Design | APIs | Database Management | Project Planning
 ## 🌐 Connect With Me
 [![LinkedIn](https://www.linkedin.com/in/selma-nghinamanu-b505792b1/)  
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@ndillyyy._)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?logo=About.me&logoColor=white)](https://ndilly-snest.netlify.app)  
 
 ---
 
