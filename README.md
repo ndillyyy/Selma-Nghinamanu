@@ -28,8 +28,8 @@ UI/UX Design | APIs | Database Management | Project Planning
 ---
 
 ## 📌 Featured Projects
-[![HealoBot](https://github-readme-stats.vercel.app/api/pin/?username=SelmaNghinamanu&repo=HealoBot&theme=rose_pine)](https://github.com/SelmaNghinamanu/HealoBot)  
-[![Task Timer App](https://github-readme-stats.vercel.app/api/pin/?username=SelmaNghinamanu&repo=Task-Timer&theme=rose_pine)](https://github.com/SelmaNghinamanu/Task-Timer)  
+[![ITGrl](https://github-readme-stats.vercel.app/api/pin/?username=SelmaNg)](https://itgrl-site.netlify.app)  
+[![ Mindset Tracker App](httpMindset Trackers://github-readme-stats.vercel.app/api/pin/?username=SelmaNghinamanu&repo=Task-Timer&theme=rose_pine)](https://daytracking.netlify.app)  
 
 ---
 
@@ -40,7 +40,7 @@ UI/UX Design | APIs | Database Management | Project Planning
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![LinkedIn](https://www.linkedin.com/in/selma-nghinamanu-b505792b1/)  
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@ndillyyy._)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
 
