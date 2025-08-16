@@ -29,7 +29,8 @@ UI/UX Design | APIs | Database Management | Project Planning
 
 ## 📌 Featured Projects
 [![ITGrl](https://github-readme-stats.vercel.app/api/pin/?username=SelmaNg)](https://itgrl-site.netlify.app)  
-[![ Mindset Tracker App](https://github.com/ndillyyy/Daily-Tracker?tab=readme-ov-file)](https://daytracking.netlify.app)  
+[![Mindset Tracker App](https://github.com/ndillyyy/Daily-Tracker?tab=readme-ov-file)](https://daytracking.netlify.app)  
+[![Selma's Personal Site](https://github.com/ndillyyy/personalsite/tree/main#readme)](https://ndilly-snest.netlify.app/)
 
 ---
 
