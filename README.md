@@ -32,8 +32,7 @@ UI/UX Design | APIs | Database Management | Project Planning
 [![Mindset Tracker App](https://github.com/ndillyyy/Daily-Tracker?tab=readme-ov-file)](https://daytracking.netlify.app)  
 [![Selma's Personal Site](https://github.com/ndillyyy/personalsite/tree/main#readme)](https://ndilly-snest.netlify.app/)
 [![Python Flower]()](https://ndillyyy.github.io/Python-Flower/)
-[![LinkedIn](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="selma-nghinamanu-b505792b1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://na.linkedin.com/in/selma-nghinamanu-b505792b1?trk=profile-badge">SELMA NGHINAMANU</a></div>)
----
+
 
 ## 📊 GitHub Stats
 ![Selma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ndilly&show_icons=true&theme=rose_pine)
@@ -44,7 +43,7 @@ UI/UX Design | APIs | Database Management | Project Planning
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selma-nghinamanu-b505792b1/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]((<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="selma-nghinamanu-b505792b1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://na.linkedin.com/in/selma-nghinamanu-b505792b1?trk=profile-badge">SELMA NGHINAMANU</a></div>)  
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@ndillyyy._?lang=en-GB)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?logo=About.me&logoColor=white)](https://ndilly-snest.netlify.app)  
 
