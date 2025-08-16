@@ -35,8 +35,10 @@ UI/UX Design | APIs | Database Management | Project Planning
 ---
 
 ## 📊 GitHub Stats
-![Selma's GitHub stats](https://github.com/ndillyyy?tab=overview&from=2025-08-01&to=2025-08-16)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelmaNghinamanu&layout=compact&theme=rose_pine)
+![Selma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ndilly&show_icons=true&theme=rose_pine)
+
+### 🔥 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndilly&layout=compact&theme=rose_pine)
 
 ---
 
