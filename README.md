@@ -31,7 +31,8 @@ UI/UX Design | APIs | Database Management | Project Planning
 [![ITGrl](https://github.com/ndillyyy/itgrl-website/blob/main/README.md)](https://itgrl-site.netlify.app)  
 [![Mindset Tracker App](https://github.com/ndillyyy/Daily-Tracker?tab=readme-ov-file)](https://daytracking.netlify.app)  
 [![Selma's Personal Site](https://github.com/ndillyyy/personalsite/tree/main#readme)](https://ndilly-snest.netlify.app/)
-[![Python Flower](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="selma-nghinamanu-b505792b1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://na.linkedin.com/in/selma-nghinamanu-b505792b1?trk=profile-badge">SELMA NGHINAMANU</a></div>               )](https://ndillyyy.github.io/Python-Flower/)
+[![Python Flower]()](https://ndillyyy.github.io/Python-Flower/)
+[![LinkedIn](https://media.licdn.com/dms/image/v2/D4D03AQHaPAhIgX9RiA/profile-displayphoto-crop_800_800/B4DZisE0CwGsAI-/0/1755233684639?e=1758153600&v=beta&t=KFjiUpWqyTlC0OUh2zvPMlee_DGsN571T4ISTKHpJA8)](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="selma-nghinamanu-b505792b1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://na.linkedin.com/in/selma-nghinamanu-b505792b1?trk=profile-badge">SELMA NGHINAMANU</a></div>)
 ---
 
 ## 📊 GitHub Stats
