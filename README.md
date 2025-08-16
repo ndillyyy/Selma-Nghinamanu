@@ -1,5 +1,5 @@
 # Selma-Nghinamanu
-About Me
+
 <h1 align="center">Hi there 👋, I'm Selma</h1>
 <h3 align="center">💻 Computer Science Student | 🎯 Future CEO | ✝️ Faith-driven Creator</h3>
 
